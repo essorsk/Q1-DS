@@ -1,2 +1,2 @@
-# Q1-DS
-Q1 Data Science
+# Q1 Data Science
+For useful scripts, homeworks & projects
